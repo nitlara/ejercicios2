@@ -1,0 +1,26 @@
+body {
+	background-image: url("https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/.learn/assets/background-vertical.jpg?raw=true");
+	background-size: contain;
+	background-repeat: repeat-y;
+	padding-left: 20px;
+	font-family: "Times New Roman";
+}
+
+h1 {
+	font-family: Courier;
+	color: red;
+	text-align: center;
+}
+h2 {
+	text-decoration: underline black;
+}
+
+#id1 {
+	background-color: white;
+	opacity: 0.2;
+}
+
+a {
+	color: green;
+	text-decoration: none;
+}

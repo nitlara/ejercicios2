@@ -4,3 +4,15 @@ body {
 .rounded {
 	border-radius: 100%;
 }
+#image {
+	/* cambia estos dos valores para definir el tamaño de tu círculo */
+	height: 150px;
+	width: 150px;
+	/* los siguientes valores son independientes del tamaño del círculo */
+	background-image: url("https://assets.breatheco.de/apis/img/funny/einstein.png");
+	border-radius: 50%;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
